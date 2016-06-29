@@ -1,6 +1,6 @@
 {
   "name": "ochre-preview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "converts documents to pdf for preview",
   "main": "index.js",
   "scripts": {
